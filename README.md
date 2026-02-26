@@ -38,17 +38,6 @@ Open to AI Engineer / Generative AI / Applied ML roles in Germany (Working Stude
   <img src="https://skillicons.dev/icons?i=git" height="60" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasnainShafiq98&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainShafiq98&layout=compact&theme=dracula" height="150"/>
-</div>
-
----
-
 ## 🔥 Contribution Activity
 
 <div align="center">
