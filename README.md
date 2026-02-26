@@ -1,165 +1,155 @@
-# Hasnain Shafiq
+<h1 align="center">Hey 👋 I'm Hasnain Shafiq</h1>
 
-AI Engineer | M.Sc. Artificial Intelligence | LLM & RAG Systems | Data & Automation  
-Germany 🇩🇪
+<h3 align="center">
+AI Engineer | M.Sc. Artificial Intelligence | LLM & RAG Systems | Data & Automation
+</h3>
+
+<p align="center">
+Based in Germany 🇩🇪
+</p>
 
 ---
 
 ## 🚀 Professional Summary
 
-Master’s student in Artificial Intelligence at BTU Cottbus with industry experience across Generative AI, LLM systems, analytics infrastructure, and AI-powered automation.
+Master’s student in Artificial Intelligence at BTU Cottbus with industry experience in Generative AI, LLM systems, analytics infrastructure, and AI-powered automation.
 
-I design and deploy applied AI systems — from Retrieval-Augmented Generation pipelines to analytics dashboards and business intelligence tools — with a strong focus on production-readiness and measurable impact.
+I design and deploy applied AI systems — from Retrieval-Augmented Generation pipelines to analytics dashboards and business intelligence tools — with strong emphasis on production readiness and measurable impact.
 
 Open to AI Engineer / Generative AI / Applied ML roles in Germany (Working Student or Full-Time).
 
 ---
 
+## 🛠 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" />
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
-![Hasnain's GitHub stats](https://github-readme-stats.vercel.app/api?username=HasnainShafiq98&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainShafiq98&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HasnainShafiq98&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainShafiq98&layout=compact&theme=dracula" height="150"/>
+</div>
+
+---
+
+## 🔥 Contribution Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=HasnainShafiq98&theme=dracula" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app?username=HasnainShafiq98&theme=dracula&row=1&column=6" height="150"/>
+</div>
 
 ---
 
 ## 🧠 Core Expertise
 
 ### 🔹 LLM & RAG Systems
-- Azure OpenAI & Mistral-based systems
-- Pinecone vector search
-- Retrieval-Augmented Generation pipelines
-- Document-based conversational AI
-- Prompt engineering for structured outputs
-- LangChain & evaluation monitoring (LangSmith)
+- Azure OpenAI & Mistral-based architectures  
+- Pinecone vector search  
+- Retrieval-Augmented Generation pipelines  
+- Document-based conversational AI  
+- Prompt engineering & structured output design  
+- LangChain + monitoring with LangSmith  
 
 ### 🔹 AI for Business Intelligence
-- Natural Language → SQL systems
-- Automated report generation from structured data
-- Procurement analytics dashboards
-- AI-driven categorization engines
+- Natural Language → SQL pipelines  
+- LLM-driven business report generation  
+- Procurement analytics dashboards  
+- AI-based document classification systems  
 
-### 🔹 Analytics & Tracking Architecture
-- GA4, GTM, Server-Side GTM
-- CRM matching & attribution correction
-- BigQuery automation pipelines
-- Funnel optimization & conversion tracking
+### 🔹 Analytics & Data Infrastructure
+- GA4, GTM, Server-Side GTM  
+- CRM reconciliation pipelines  
+- BigQuery automation  
+- Funnel optimization & attribution correction  
 
 ### 🔹 Backend & Deployment
-- FastAPI-based AI services
-- Streamlit dashboards
-- Dockerized applications
-- Azure & GCP integrations
-- Microsoft Graph API & Azure Authentication
+- FastAPI AI services  
+- Streamlit dashboards  
+- Dockerized applications  
+- Azure Auth + Microsoft Graph API  
 
 ---
 
-## 💼 Industry Experience
+## 💼 Experience Highlights
 
-### Working Student – Tech & Development  
-Nao Intelligence, Germany (2025–2026)
+**Working Student – Tech & Development (Germany)**  
+- Built SharePoint-synced AI dashboards  
+- Developed automated invoice extraction pipelines  
+- Created AI-driven category recommender  
 
-- Built SharePoint-synced Streamlit dashboards using Microsoft Graph API and Azure authentication  
-- Developed automated telecom invoice extraction pipelines  
-- Designed procurement analytics dashboards with structured reporting  
-- Created an AI-driven category recommender for large document batches  
+**Working Student – Generative AI (Berlin)**  
+- Built LLM-based sales call auditing system  
+- Reduced tracking mismatch by 30%  
+- Improved tracking accuracy by 20%  
 
-Tech: Python, FastAPI, Streamlit, Docker, PostgreSQL, LangChain
-
----
-
-### Working Student – Generative AI & Data Analytics  
-Cuba Buddy, Berlin (2024–2025)
-
-- Developed AI system to audit sales calls using LLMs  
-- Reduced ad-to-CRM data mismatch by 30% via server-side GTM  
-- Improved tracking accuracy (+20%) and attribution precision (+10%)  
-- Automated lead workflows and enhanced multi-channel tracking  
-
-Tech: GA4, GTM, sGTM, OpenAI APIs, Zapier, Fireflies, Pipedrive
-
----
-
-### Data Associate (Data Analyst)  
-Marketlytics (2022–2024)
-
-- Restored broken GA4 implementations and server-side tracking setups  
-- Automated GA4–Segment–BigQuery pipelines (10+ hours/week saved)  
-- Increased add-to-cart rate by 8.3% via funnel optimization  
-- Led analytics audits for data validation and business decisions  
+**Data Analyst – Analytics Infrastructure**  
+- Restored GA4 implementations  
+- Automated GA4–Segment–BigQuery pipelines  
+- Increased eCommerce conversion performance  
 
 ---
 
 ## 🚀 Selected Projects
 
-### 🧠 Cuba Travel AI Chatbot (RAG System)
-- Built RAG-based travel assistant using MistralAI + Pinecone  
-- Implemented web scraping for real-time travel insights  
-- Designed Streamlit interface  
-- Integrated LangSmith for monitoring and optimization  
+### 🧠 Cuba Travel AI Chatbot (RAG)
+- MistralAI + Pinecone  
+- Web ingestion + retrieval synthesis  
+- Streamlit UI + monitoring  
 
----
+### 📂 AI Category Recommender
+- Embedding-based document classification  
+- Scalable procurement categorization  
 
-### 📂 AI Category Recommender (Savify AG)
-- Designed document classification engine for procurement workflows  
-- Implemented scalable AI-based categorization logic  
-- Optimized classification for large document batches  
-
----
-
-### 🤟 Pakistan Sign Language → Urdu Translator
-- Developed real-time translation system using Kinect  
-- Converted Pakistan Sign Language into Urdu text and audio  
-- Research publication (IAESPrime)
+### 🤟 Sign Language → Urdu Translator
+- Kinect-based gesture recognition  
+- Real-time translation pipeline  
+- Research publication  
 
 ---
 
 ## 🎓 Education
 
 M.Sc. Artificial Intelligence  
-Brandenburg University of Technology (BTU), Germany  
-Focus: Large Language Models and applied AI systems  
+BTU Cottbus, Germany  
 
 B.Sc. Computer Science  
-Iqra University, Pakistan  
-
----
-
-## 🛠 Technical Stack
-
-Languages  
-Python | SQL | JavaScript | Java  
-
-AI & ML  
-LLMs | RAG | Hugging Face | LangChain  
-
-Cloud & Data  
-Azure | GCP | Pinecone | BigQuery | PostgreSQL  
-
-Analytics  
-GA4 | GTM | sGTM | Looker Studio | Segment  
-
-Automation  
-Zapier | Make | n8n  
-
-Deployment  
-Docker | FastAPI | Streamlit | Git  
 
 ---
 
 ## 🌍 Languages
 
-English – C1  
-German – A2  
-Urdu – Native  
+English (C1)  
+German (A2)  
+Urdu (Native)  
 
 ---
 
 ## 📫 Contact
 
-Email: hasnainshafeeq@gmail.com  
-LinkedIn: hasnain-shafiq  
-GitHub: HasnainShafiq98  
+📧 hasnainshafeeq@gmail.com  
+🔗 LinkedIn: hasnain-shafiq  
+💻 GitHub: HasnainShafiq98  
 
 ---
 
-Building AI systems that connect data, automation, and intelligent reasoning — from analytics infrastructure to production-ready LLM applications.
+<p align="center">
+Building production-ready AI systems — not experiments.
+</p>
