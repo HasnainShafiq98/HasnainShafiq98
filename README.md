@@ -1,7 +1,7 @@
 <!-- ============================================================= -->
 <!--  HASNAIN SHAFIQ · GitHub Profile README                        -->
 <!--  TODO 1: repo must be named exactly  HasnainShafiq98           -->
-<!--  TODO 2: replace project repo links marked  <!-- TODO -->      -->
+<!--  TODO 2: replace project repo links (search this file for: TODO) -->
 <!--  TODO 3: add snake workflow at .github/workflows/snake.yml     -->
 <!-- ============================================================= -->
 
@@ -170,7 +170,7 @@ current = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HasnainShafiq98&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=7c3aed&icon_color=7c3aed" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HasnainShafiq98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7c3aed&icon_color=7c3aed" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainShafiq98&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed&langs_count=8" />
 
 <br/>
