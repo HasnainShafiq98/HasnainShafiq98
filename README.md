@@ -1,14 +1,16 @@
 <!-- ============================================================= -->
 <!--  HASNAIN SHAFIQ · GitHub Profile README                        -->
-<!--  Tip: replace the project repo links marked with TODO below.   -->
+<!--  TODO 1: repo must be named exactly  HasnainShafiq98           -->
+<!--  TODO 2: replace project repo links marked  <!-- TODO -->      -->
+<!--  TODO 3: add snake workflow at .github/workflows/snake.yml     -->
 <!-- ============================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:7c3aed&height=200&section=header&text=Hasnain%20Shafiq&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20LLM%20%26%20RAG%20Systems%20·%20Applied%20ML&descSize=18&descAlignY=60&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:7c3aed&height=210&section=header&text=Hasnain%20Shafiq&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20·%20LLM%20%26%20RAG%20Systems%20·%20Applied%20ML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=620&lines=Building+production-ready+AI+systems;Retrieval-Augmented+Generation+pipelines;LLM+agents%2C+automation+%26+data+infrastructure;M.Sc.+Artificial+Intelligence+%40+BTU+Cottbus" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=Building+production-ready+AI+systems;Retrieval-Augmented+Generation+pipelines;LLM+agents%2C+automation+%26+data+infrastructure;M.Sc.+Artificial+Intelligence+%40+BTU+Cottbus" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,7 +37,35 @@ I'm an **AI Engineer** and **M.Sc. Artificial Intelligence** student at **BTU Co
 
 I design and ship applied AI systems end to end — from **Retrieval-Augmented Generation pipelines** and **LLM agents** to **business-intelligence dashboards** and **data-tracking infrastructure** — with a strong bias toward **production readiness** and **measurable impact**.
 
-> *“Building production-ready AI systems — not experiments.”*
+```python
+current = {
+    "role":     "AI Software Engineer (Working Student) @ Optigin",
+    "studying": "M.Sc. Artificial Intelligence @ BTU Cottbus",
+    "focus":    ["RAG pipelines", "LLM agents", "agentic workflows"],
+    "stack":    ["Python", "FastAPI", "DSPy", "LangChain", "Docker"],
+    "open_to":  "AI / GenAI / ML roles in Germany 🇩🇪",
+}
+```
+
+---
+
+## ⚡ Impact at a Glance
+
+<div align="center">
+
+![Data accuracy](https://img.shields.io/badge/Data_Accuracy-%E2%86%91_20%25-22c55e?style=for-the-badge)
+&nbsp;
+![Attribution](https://img.shields.io/badge/Attribution_Precision-%E2%86%91_10%25-22c55e?style=for-the-badge)
+&nbsp;
+![Add to cart](https://img.shields.io/badge/Add--to--Cart_Rate-%E2%86%91_8.3%25-22c55e?style=for-the-badge)
+
+![Mismatch](https://img.shields.io/badge/Ad--to--CRM_Mismatch-%E2%86%93_30%25-3b82f6?style=for-the-badge)
+&nbsp;
+![Time saved](https://img.shields.io/badge/Weekly_Time_Saved-10%2B_hrs-3b82f6?style=for-the-badge)
+&nbsp;
+![Research](https://img.shields.io/badge/Published-IAES_Prime-7c3aed?style=for-the-badge)
+
+</div>
 
 ---
 
@@ -84,6 +114,58 @@ I design and ship applied AI systems end to end — from **Retrieval-Augmented G
 
 ---
 
+## 🧠 What I Do
+
+<details open>
+<summary><b>🔹 LLM &amp; RAG Systems</b></summary>
+
+<br/>
+
+- Retrieval-Augmented Generation pipelines (OpenAI / Mistral / Ollama)
+- Pinecone vector search & document-grounded conversational AI
+- Prompt engineering, DSPy & structured-output design
+- LLM evaluation + monitoring (LangChain / LangSmith)
+
+</details>
+
+<details>
+<summary><b>🔹 AI for Business Intelligence</b></summary>
+
+<br/>
+
+- Natural Language → SQL pipelines
+- LLM-driven business report generation
+- Procurement & analytics dashboards
+- AI-based document classification systems
+
+</details>
+
+<details>
+<summary><b>🔹 Analytics &amp; Data Infrastructure</b></summary>
+
+<br/>
+
+- GA4, GTM & Server-Side GTM implementations
+- CRM reconciliation pipelines
+- BigQuery automation & ETL
+- Funnel optimization & attribution correction
+
+</details>
+
+<details>
+<summary><b>🔹 Backend &amp; Deployment</b></summary>
+
+<br/>
+
+- FastAPI AI services with schema validation
+- Streamlit dashboards & internal tools
+- Dockerized, reproducible deployments
+- Azure Auth + Microsoft Graph API integrations
+
+</details>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -94,6 +176,15 @@ I design and ship applied AI systems end to end — from **Retrieval-Augmented G
 <br/>
 
 <img height="165" src="https://streak-stats.demolab.com?user=HasnainShafiq98&theme=tokyonight&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasnainShafiq98&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="95%" />
+
+<br/>
+
+<!-- Snake animation — needs .github/workflows/snake.yml (see notes) -->
+<img src="https://raw.githubusercontent.com/HasnainShafiq98/HasnainShafiq98/output/snake.svg" width="95%" alt="contribution snake" />
 
 <br/>
 
@@ -244,6 +335,10 @@ Master's focus: **large language models** and their applications across domains 
 <a href="mailto:hasnainshafeeq@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/hasnain-shafiq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/HasnainShafiq98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/>
+
+<i>Building production-ready AI systems — not experiments.</i>
 
 <br/><br/>
 
