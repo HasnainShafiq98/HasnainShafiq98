@@ -1,355 +1,136 @@
-<!-- ============================================================= -->
-<!--  HASNAIN SHAFIQ · GitHub Profile README                        -->
-<!--  TODO 1: repo must be named exactly  HasnainShafiq98           -->
-<!--  TODO 2: replace project repo links (search this file for: TODO) -->
-<!--  TODO 3: add snake workflow at .github/workflows/snake.yml     -->
-<!-- ============================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:7c3aed&height=210&section=header&text=Hasnain%20Shafiq&fontSize=58&fontColor=ffffff&fontAlignY=36&desc=AI%20Engineer%20·%20LLM%20%26%20RAG%20Systems%20·%20Applied%20ML&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+# Hasnain Shafiq
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=640&lines=Building+production-ready+AI+systems;Retrieval-Augmented+Generation+pipelines;LLM+agents%2C+automation+%26+data+infrastructure;M.Sc.+Artificial+Intelligence+%40+BTU+Cottbus" alt="Typing SVG" />
-</a>
+### AI Engineer · LLM Applications · Backend & Workflow Automation
 
-<br/>
+Building practical AI applications and automation systems, from data and APIs to deployed products.
 
-<img src="https://img.shields.io/badge/📍_Cottbus,_Germany-1f2937?style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/badge/🟢_Open_to-AI_/_GenAI_/_ML_roles-22c55e?style=flat-square" />
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=HasnainShafiq98&style=flat-square&color=7c3aed&label=Profile+Views" />
+**Cottbus, Germany · Open to relocation and full-time opportunities**
 
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/hasnain-shafiq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/HasnainShafiq98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:hasnainshafeeq@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[LinkedIn](https://www.linkedin.com/in/hasnain-shafiq/) · [Email](mailto:hasnainshafeeq@gmail.com) · [GitHub](https://github.com/HasnainShafiq98)
 
 </div>
 
 ---
 
-## 👋 About Me
-
-I'm an **AI Engineer** and **M.Sc. Artificial Intelligence** student at **BTU Cottbus**, with hands-on industry experience across **Generative AI, LLM/RAG systems, AI-driven automation, and analytics infrastructure**.
+## About me
 
-I design and ship applied AI systems end to end — from **Retrieval-Augmented Generation pipelines** and **LLM agents** to **business-intelligence dashboards** and **data-tracking infrastructure** — with a strong bias toward **production readiness** and **measurable impact**.
+I'm an AI Engineer with experience across software development, LLM applications, workflow automation, and data analytics. I build tools that help teams process documents, automate operations, and turn data into useful applications.
 
-```python
-current = {
-    "role":     "AI Software Engineer (Working Student) @ Optigin",
-    "studying": "M.Sc. Artificial Intelligence @ BTU Cottbus",
-    "focus":    ["RAG pipelines", "LLM agents", "agentic workflows"],
-    "stack":    ["Python", "FastAPI", "DSPy", "LangChain", "Docker"],
-    "open_to":  "AI / GenAI / ML roles in Germany 🇩🇪",
-}
-```
+Currently, I'm an **AI Automation Engineer (Working Student) at Koko & Lynn**, building fulfillment and reconciliation workflows with Python, n8n, and external APIs. I'm also pursuing an **M.Sc. in Artificial Intelligence at BTU Cottbus-Senftenberg**, with a focus on large language models and their applications.
 
----
+My work combines **Python backend development, structured LLM outputs, API integrations, and deployment**. I care about clear interfaces, data validation, error handling, and measurable results.
 
-## ⚡ Impact at a Glance
+## Selected impact
 
-<div align="center">
+| System | Result |
+| :--- | :--- |
+| Warehouse fulfillment platform | Reduced batch preparation from **2–3 hours to 5–10 minutes**, supporting **300+ orders per week**. |
+| Customs-audit workflow | Reconciled **3,358 shipments** and identified **€16,125 in overcharges**; prepared **€8,760 in claim-ready recoveries**. |
+| AI sales-call evaluation | Analyzed **50+ conversations** and reduced manual review time by **10+ hours per week**. |
+| Internal reporting dashboard | Replaced a manual reporting cycle, saving approximately **4 hours per week** for a team of **15+ users**. |
 
-![Classification accuracy](https://img.shields.io/badge/Classification_Accuracy-90%25%2B-22c55e?style=for-the-badge)
-&nbsp;
-![Extraction accuracy](https://img.shields.io/badge/Invoice_Extraction-95%25%2B-22c55e?style=for-the-badge)
-&nbsp;
-![Add to cart](https://img.shields.io/badge/Add--to--Cart_Rate-%E2%86%91_8.3%25-22c55e?style=for-the-badge)
+## Featured projects
 
-![Data accuracy](https://img.shields.io/badge/Data_Accuracy-%E2%86%91_20%25-3b82f6?style=for-the-badge)
-&nbsp;
-![Mismatch](https://img.shields.io/badge/Ad--to--CRM_Mismatch-%E2%86%93_30%25-3b82f6?style=for-the-badge)
-&nbsp;
-![Time saved](https://img.shields.io/badge/Weekly_Time_Saved-10%2B_hrs-3b82f6?style=for-the-badge)
+### [Invoice Parser — LLM-Based Document Intelligence](https://github.com/HasnainShafiq98/Invoice-parser)
 
-![Leads](https://img.shields.io/badge/Leads_Processed-500%2B%2Fmo-7c3aed?style=for-the-badge)
-&nbsp;
-![Attribution](https://img.shields.io/badge/Attribution_Precision-%E2%86%91_10%25-7c3aed?style=for-the-badge)
-&nbsp;
-![Research](https://img.shields.io/badge/Published-IAES_Prime-7c3aed?style=for-the-badge)
+A vision-LLM application that converts invoice images into validated, structured JSON without a separate traditional OCR pipeline.
 
-</div>
+- Extracts invoice fields and line items using DSPy and vision-capable models.
+- Provides a web interface and FastAPI endpoints with schema validation and API documentation.
+- Includes automated tests and Docker-based deployment.
 
----
+**Stack:** Python · FastAPI · DSPy · Pydantic · Ollama · Pytest · Docker
 
-## 🧰 Tech Stack
+### [AI Voice Agent](https://github.com/HasnainShafiq98/AI-Voice-Agent)
 
-**Languages**
+A conversational voice-agent project connecting speech recognition, language-model inference, and text-to-speech.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- Combines Whisper, Ollama, and speech synthesis in a voice interaction pipeline.
+- Uses a Node.js backend with session context, structured responses, and fallback handling.
+- Supports containerized setup with Docker Compose.
 
-**AI / ML / LLM**
+**Stack:** Node.js · Express · Whisper · Ollama · Docker
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![DSPy](https://img.shields.io/badge/DSPy-0B5FFF?style=for-the-badge&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Mistral](https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_·_AI_Agents-7C3AED?style=for-the-badge&logoColor=white)
+### Pakistan Sign Language to Urdu Translator
 
-**Backend & Cloud**
+My bachelor's thesis project: a Kinect-based system for translating Pakistan Sign Language into Urdu text and audio.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+The work was published as **“Pakistan sign language to Urdu translator using Kinect”** in *Computer Science and Information Technologies*.
 
-**Data & Analytics**
+[Source code](https://github.com/FinalYearProjectHNAY2021/PSLToUrdu) · [Research paper](https://iaesprime.com/index.php/csit/article/view/196)
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![GA4](https://img.shields.io/badge/GA4_·_GTM_·_sGTM-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Focus:** Computer vision · Gesture recognition · Accessible technology
 
----
+## Technical toolkit
 
-## 🧠 What I Do
+| Area | Technologies |
+| :--- | :--- |
+| Languages | Python, SQL, TypeScript, JavaScript |
+| AI & LLM applications | RAG, AI agents, DSPy, LangChain, Hugging Face Transformers, Ollama, LLM evaluation |
+| Backend & frontend | FastAPI, REST APIs, Pydantic, React, Node.js, Streamlit |
+| Automation & integrations | n8n, Make, Zapier, webhooks, OAuth, Microsoft Graph API, Billbee API, EasyPost API |
+| Cloud & data | Cloudflare Workers, D1, R2, KV, Durable Objects, Azure, GCP, PostgreSQL, Pinecone, BigQuery |
+| Testing & delivery | Pytest, Docker, Git, schema validation, retry logic, error handling |
+| Analytics | GA4, GTM, server-side GTM, Segment, Looker Studio, Power BI |
 
-<details open>
-<summary><b>🔹 LLM & RAG Systems</b></summary>
+## Professional experience
 
-<br/>
+### AI Automation Engineer · Koko & Lynn
+**Jul 2026–Present · Working Student · Aachen, Germany**
 
-- Retrieval-Augmented Generation pipelines (OpenAI / Mistral / Ollama)
-- Pinecone vector search & document-grounded conversational AI
-- Prompt engineering, DSPy & structured-output design
-- LLM evaluation + monitoring (LangChain / LangSmith)
+- Built a fulfillment platform with Python, Streamlit, n8n, and Billbee APIs to automate order batching, delivery notes, and personalization files for 300+ weekly orders.
+- Developed shipment-reconciliation workflows across FedEx, Billbee, and EasyPost, identifying overcharges and preparing claim-ready cases.
+- Automated phone-number entry for 100+ Etsy orders per week and addressed formatting issues across 250+ international orders per week.
 
-</details>
+### AI Software Engineer · Optigin
+**May–Jun 2026 · Working Student · Stuttgart, Germany**
 
-<details>
-<summary><b>🔹 AI for Business Intelligence</b></summary>
+- Built a multi-role B2B SaaS platform with React and Cloudflare, including CRM, a quote-to-order pipeline, and a customer portal.
+- Implemented token-based contract signing with authentication, signature capture, and audit tracking.
+- Developed a tiered commission engine and PDF statements using a Cloudflare Workers, D1, R2, and KV stack.
 
-<br/>
+### Backend Engineer · Nao Intelligence
+**Aug 2025–Jan 2026 · Working Student · Munich, Germany**
 
-- Natural Language → SQL pipelines
-- LLM-driven business report generation
-- Procurement & analytics dashboards
-- AI-based document classification systems
+- Built an AI document-category recommender and automated invoice-field extraction workflows.
+- Delivered a procurement dashboard consolidating 15+ reports and KPIs.
+- Connected Excel and SharePoint to a Streamlit dashboard through Microsoft Graph API and Azure authentication.
 
-</details>
+### AI Automation Engineer · Cuba Buddy
+**Aug 2024–May 2025 · Working Student · Berlin, Germany**
 
-<details>
-<summary><b>🔹 Analytics & Data Infrastructure</b></summary>
+- Built an AI sales-call evaluation tool that reduced manual review time by 10+ hours per week.
+- Resolved a 30% ad-to-CRM tracking mismatch through server-side GTM and event-tracking improvements.
+- Automated lead-processing workflows supporting 500+ leads per month.
 
-<br/>
+### Digital Analyst · Marketlytics
+**Dec 2022–Jan 2024 · Karachi, Pakistan**
 
-- GA4, GTM & Server-Side GTM implementations
-- CRM reconciliation pipelines
-- BigQuery automation & ETL
-- Funnel optimization & attribution correction
+- Rebuilt GA4 and server-side tracking implementations to restore reliable analytics.
+- Automated GA4, Segment, and BigQuery data flows, saving 10+ hours per week.
+- Improved add-to-cart rate by 8.3% through funnel analysis and audience targeting, and conducted 10+ analytics audits.
 
-</details>
+## Education
 
-<details>
-<summary><b>🔹 Backend & Deployment</b></summary>
+**M.Sc. Artificial Intelligence**  
+Brandenburgische Technische Universität Cottbus-Senftenberg, Germany · Oct 2023–Present  
+Focus: large language models, artificial intelligence, and applied AI systems.
 
-<br/>
+**B.Sc. Computer Science**  
+Iqra University, Karachi, Pakistan · Sep 2017–Dec 2021  
+Thesis: Pakistan Sign Language to Urdu translation using Kinect.
 
-- FastAPI AI services with schema validation
-- Streamlit dashboards & internal tools
-- Dockerized, reproducible deployments
-- Azure Auth + Microsoft Graph API integrations
+## Beyond the code
 
-</details>
+**Languages:** English (C1) · German (A2)  
+**Interests:** Cooking, table tennis, cricket, and travelling.
 
----
+## Let's connect
 
-## 📊 GitHub Stats
+I'm interested in **AI Engineer, Generative AI Engineer, and Software Engineer roles focused on AI applications** in Germany, and I'm open to relocation.
 
-<div align="center">
+If you're working on document intelligence, conversational AI, or business automation, I'd be happy to connect.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HasnainShafiq98&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7c3aed&icon_color=7c3aed" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainShafiq98&layout=compact&theme=tokyonight&hide_border=true&title_color=7c3aed&langs_count=8" />
-
-<br/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=HasnainShafiq98&theme=tokyonight&hide_border=true&ring=7c3aed&fire=7c3aed&currStreakLabel=7c3aed" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HasnainShafiq98&theme=tokyo-night&hide_border=true&bg_color=00000000&color=7c3aed&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" width="95%" />
-
-<br/>
-
-<!-- Snake animation — needs .github/workflows/snake.yml (see notes) -->
-<img src="https://raw.githubusercontent.com/HasnainShafiq98/HasnainShafiq98/output/snake.svg" width="95%" alt="contribution snake" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app?username=HasnainShafiq98&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=6" />
-
-</div>
-
----
-
-## 💼 Experience
-
-### 🟣 AI Software Engineer — *Working Student* · **Optigin**, Stuttgart
-`05/2026 – Present`
-- Built a **multi-role B2B SaaS platform** (React 19, Cloudflare Workers, SSR) with CRM, a quote-to-order pipeline, and a self-service customer portal.
-- Engineered a **token-based contract-signing workflow** with secure auth, signature capture, and audit tracking — avoiding third-party e-signature tools.
-- Developed a **tiered commission engine** with dealer/employee ledgers, incentive logic, and exportable PDF statements.
-- Deployed a **scalable edge stack** on Cloudflare Workers, D1, R2 & KV for low-latency delivery.
-
-<sub>`React` · `TypeScript` · `Cloudflare` · `REST APIs` · `Durable Objects`</sub>
-
-### 🟣 Backend Engineer — *Working Student* · **Nao Intelligence**, Munich
-`08/2025 – 01/2026`
-- Designed an **AI-driven category recommender** for Savify AG, achieving **90%+ classification accuracy** across batches of 100+ documents.
-- Engineered an **automated invoice-extraction script** for O2 & Telekom invoices (Comvado) with **95%+ extraction accuracy**.
-- Oversaw the full setup of a **procurement analytics dashboard** for Alunorf, consolidating 15+ reports/KPIs into clean, unified visual reporting.
-- Streamlined Excel data into a **SharePoint-synced Streamlit dashboard** (Graph API + Azure Auth), eliminating a ~4 hrs/week manual reporting cycle for 15+ users.
-
-<sub>`Python` · `PostgreSQL` · `LangChain` · `Power BI` · `Streamlit` · `Docker` · `Azure` · `Claude`</sub>
-
-### 🟣 AI Automation Engineer — *Working Student* · **Cuba Buddy**, Berlin
-`08/2024 – 05/2025`
-- Developed an **AI tool to audit 50+ sales calls**, surfacing rep-level performance gaps and coaching insights while cutting manual review time by **10+ hrs/week**.
-- Resolved a **30% ad-to-CRM data mismatch** via server-side GTM (sGTM) and optimized event tracking for reliable, first-party data capture.
-- Improved **data accuracy +20%** and **attribution precision +10%** by configuring GA4 through GTM with custom events and conversion definitions.
-- Automated the lead workflow to process **500+ leads/month**, minimizing manual data entry and accelerating lead handoff to sales.
-
-<sub>`OpenAI` · `LLMs` · `GA4` · `GTM` · `Zapier` · `Google Ads` · `Bing Ads` · `Pipedrive`</sub>
-
-### 🟣 Digital Analyst · **Marketlytics**, Karachi
-`12/2022 – 01/2024`
-- Restored broken analytics across multiple businesses by rebuilding GA4 and server-side tracking for reliable data capture.
-- Automated **GA4 + Segment + BigQuery** integration — saving **10+ hours weekly** and ensuring warehouse-ready data flow.
-- Increased **add-to-cart rate by 8.3%** by optimizing funnel drop-offs and refining audience targeting.
-- Led **10+ agile analytics audits** to validate tracking accuracy and support data-driven decisions across teams.
-
-<sub>`GA4` · `GTM` · `sGTM` · `Segment` · `Looker Studio` · `ETL`</sub>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧾 Invoice Parser
-**LLM-Based Document Intelligence**
-
-Vision-LLM pipeline turning invoice images into validated, structured JSON — **no OCR**.
-- DSPy chain-of-thought field & line-item extraction
-- Production FastAPI REST APIs + Swagger docs
-- Automated tests + Dockerized deployment
-
-`DSPy` `FastAPI` `Pydantic` `Docker`
-
-<!-- TODO: replace with exact repo URL -->
-[`Repo →`](https://github.com/HasnainShafiq98)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ AI Voice Agent
-**LLM-Powered Conversational System**
-
-Real-time voice agent using Whisper (STT), Ollama (LLM) and TTS.
-- Node.js + Express backend with session memory
-- Intent handling, JSON validation & fallback logic
-- Containerized with Docker Compose
-
-`Whisper` `Ollama` `Node.js` `Docker`
-
-<!-- TODO: replace with exact repo URL -->
-[`Repo →`](https://github.com/HasnainShafiq98)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Cuba Travel AI Chatbot
-**Retrieval-Augmented Generation**
-
-Document-grounded conversational assistant.
-- Mistral AI + Pinecone vector search
-- Web ingestion + retrieval synthesis
-- Streamlit UI with monitoring
-
-`Mistral` `Pinecone` `RAG` `Streamlit`
-
-<!-- TODO: replace with exact repo URL -->
-[`Repo →`](https://github.com/HasnainShafiq98)
-
-</td>
-<td width="50%" valign="top">
-
-### 🤟 Sign Language → Urdu Translator (PSLUT)
-**Bachelor Thesis · Research Publication (IAES Prime)**
-
-Real-time translation of Pakistan Sign Language to Urdu text & audio.
-- Kinect-based gesture recognition
-- Real-time translation pipeline
-- Published research paper
-
-`Kinect` `Computer Vision` `Research`
-
-<!-- TODO: replace with exact repo URL -->
-[`Repo →`](https://github.com/HasnainShafiq98)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎓 Education
-
-| | |
-|---|---|
-| 🎓 **M.Sc. Artificial Intelligence** | Brandenburgische Technische Universität, Cottbus · `10/2023 – Present` |
-| 🎓 **B.Sc. Computer Science** | Iqra University, Karachi · `09/2017 – 12/2021` |
-
-Master's focus: **large language models** and their applications across domains — foundational concepts and emerging techniques in AI-driven solutions.
-
----
-
-## 🌍 Languages
-
-![English](https://img.shields.io/badge/English-C1-7c3aed?style=flat-square)
-![German](https://img.shields.io/badge/Deutsch-A2-7c3aed?style=flat-square)
-![Urdu](https://img.shields.io/badge/Urdu-Native-7c3aed?style=flat-square)
-
----
-
-<div align="center">
-
-### 📫 Let's build something
-
-<a href="mailto:hasnainshafeeq@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/hasnain-shafiq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/HasnainShafiq98"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/>
-
-<i>Building production-ready AI systems — not experiments.</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:1f6feb&height=120&section=footer" width="100%" />
-
-</div>
+[hasnainshafeeq@gmail.com](mailto:hasnainshafeeq@gmail.com) · [LinkedIn](https://www.linkedin.com/in/hasnain-shafiq/)
